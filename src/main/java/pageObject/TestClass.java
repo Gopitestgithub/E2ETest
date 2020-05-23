@@ -11,5 +11,8 @@ public class TestClass {
 		
 		
 			System.out.println("Indian guy 2");
+			
+			System.out.println("American guy 2");
+			System.out.println("American guy 3");
 	}
 }
