@@ -1,0 +1,2 @@
+22:51:05.749 [AsyncHttpClient-9-1] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+22:51:06.858 [main] INFO  resources.base - Browser is closed for Verify_Title

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 12.558 s <<< FAILURE! - in TestSuite
+Tests.Verify_Title.title  Time elapsed: 0.056 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED12 COURSES] but found [FEATURED COURSES]
+	at Tests.Verify_Title.title(Verify_Title.java:37)
+

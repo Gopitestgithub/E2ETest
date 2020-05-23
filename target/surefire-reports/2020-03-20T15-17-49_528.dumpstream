@@ -1,0 +1,4 @@
+# Created at 2020-03-20T15:17:50.265
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Nandhu\E2EProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
